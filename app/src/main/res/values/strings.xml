@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fuwa-hands</string>
+    <string name="accessibility_desc">fuwa-hands が画面の読み取りとタップ操作を行うためのサービスです。本人が有効化したときだけ動作します。</string>
+</resources>
